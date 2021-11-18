@@ -1,4 +1,4 @@
-# Exercise -1 :notebook:git
+# Exercise -1 :notebook:
 
 ## <span>1.</span> Create a folder.
 
