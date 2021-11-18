@@ -66,15 +66,3 @@ git log
 git log --oneline
 
 ```
-
-<style>
-    h1{
-        color:lightgreen
-    }
-    h2{
-        padding: 2rem 0;
-    }
-    span{
-        color:yellow;
-    }
-</style>
